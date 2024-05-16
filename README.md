@@ -29,6 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapil-gurav&show_icons=true&locale=en" alt="kapil-gurav" /></p>
 
+![GitHub Snake Animation](https://github.com/USERNAME/REPO_NAME/blob/output/github-contribution-grid-snake.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapil-gurav&" alt="kapil-gurav" /></p>
 
